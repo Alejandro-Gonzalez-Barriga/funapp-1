@@ -1,1 +1,5 @@
 node_modules
+
+public/react/bundle.js
+
+/mysql/index.js
